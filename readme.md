@@ -5,8 +5,8 @@
 [<img src="https://github.com/AndrezaGSantana.png" width="100" style="border-radius:50%">](https://github.com/AndrezaGSantana)  
 **[Andreza Gomes](https://github.com/AndrezaGSantana)**  
 
-[<img src="https://github.com/C-Junior.png" width="100" style="border-radius:50%">](https://github.com/C-Junior)  
-**[Clodoaldo Junior](https://github.com/C-Junior)**  
+[<img src="https://github.com/C-Junior.png" width="100" style="border-radius:50%">](https://github.com/C-Juniorr)  
+**[Clodoaldo Junior](https://github.com/C-Juniorr)**  
 
 [<img src="https://github.com/Veroshy.png" width="100" style="border-radius:50%">](https://github.com/Veroshy)  
 **[Guinevere Cavalcanti](https://github.com/Veroshy)**  
@@ -24,3 +24,4 @@
 **[Willians Keiichi](https://github.com/wk-ss)**  
 
 </div>
+
