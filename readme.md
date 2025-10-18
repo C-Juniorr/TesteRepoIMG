@@ -9,8 +9,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/C-Junior">
-        <img src="https://github.com/C-Junior.png" width="100" style="border-radius:50%"><br>
+      <a href="https://github.com/C-Juniorr">
+        <img src="https://github.com/C-Juniorr.png" width="100" style="border-radius:50%"><br>
         <sub><b>Clodoaldo Junior</b></sub>
       </a>
     </td>
@@ -46,3 +46,4 @@
     </td>
   </tr>
 </table>
+
